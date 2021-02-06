@@ -1,0 +1,5 @@
+Alguns comandos do Git
+GIT CONFIG -  Usado para  dar propriedades do autor 
+GIT INIT - Para começar a versionar o projeto;
+GIT ADD - Adicionando arquivos a pasta / repositório  
+GIT COMMIT - Salva no diretório  as alterações feitas.
